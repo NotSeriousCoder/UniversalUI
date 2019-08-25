@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- actionbar控件 -->
+    <declare-styleable name="ActionbarView">
+        <attr name="txtTitle" format="string" />
+        <attr name="txtLeft" format="string" />
+        <attr name="txtRight" format="string" />
+        <attr name="showIconLeft" format="boolean" />
+        <attr name="btnBackIcon" format="reference" />
+        <attr name="rightIcon" format="reference" />
+    </declare-styleable>
+</resources>
